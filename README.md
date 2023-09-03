@@ -17,6 +17,7 @@ Minishell is a simplified Unix shell, similar to the Bash terminal, developed in
 
 ### Getting Started
 
+If you are using Linux you should replace the contents of the Makefile with the contents of the LinuxMakefile.txt file
 To get started with Minishell, follow these steps:
 
 1. Clone this repository: `git clone https://github.com/yigithankarabulut/minishell.git`
